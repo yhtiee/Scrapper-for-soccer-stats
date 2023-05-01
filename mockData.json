@@ -1,0 +1,64 @@
+[{
+    "MATCH": "arsenal-southampton",
+    "HOME STATS":{
+        "POS":1,
+        "GP":30,
+        "W":15,
+        "L":5,
+        "D":10,
+        "GF":20,
+        "GA":5,
+        "POT":74
+    },
+    "AWAY STATS":{
+        "POS":1,
+        "GP":30,
+        "W":15,
+        "L":5,
+        "D":10,
+        "GF":20,
+        "GA":5,
+        "POT":74
+    },
+    "LAST 4 MATCHES HOME":{
+        "POS":1,
+        "GP":30,
+        "W":15,
+        "L":5,
+        "D":10,
+        "GF":20,
+        "GA":5,
+        "POT":74
+    },
+    "LAST 4 MATCHES AWAY":{
+        "POS":1,
+        "GP":30,
+        "W":15,
+        "L":5,
+        "D":10,
+        "GF":20,
+        "GA":5,
+        "POT":74
+    },
+    "LAST 6 MATCHES HOME":{
+        "POS":1,
+        "GP":30,
+        "W":15,
+        "L":5,
+        "D":10,
+        "GF":20,
+        "GA":5,
+        "POT":74
+    },
+    "LAST 6 MATCHES HOME":{
+        "POS":1,
+        "GP":30,
+        "W":15,
+        "L":5,
+        "D":10,
+        "GF":20,
+        "GA":5,
+        "POT":74
+    }
+},
+]
